@@ -280,8 +280,7 @@ Este comando elimina:
 * AWS Budget
 * Recursos asociados del módulo de observabilidad
 
-```
-```
+---
 
 ## Autor
 Sergio Geovany García Smith
